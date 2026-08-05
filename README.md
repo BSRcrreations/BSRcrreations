@@ -21,42 +21,6 @@ My current work combines **cloud infrastructure, Kubernetes, CI/CD, observabilit
 
 ---
 
-## 🛠️ Technical Skills
-
-### Cloud and Infrastructure
-
-`AWS` `Azure` `Kubernetes` `Docker` `Terraform` `Helm` `Linux` `Nginx`
-
-### DevOps and GitOps
-
-`GitHub Actions` `GitLab CI/CD` `Jenkins` `Argo CD` `Ansible` `Maven`
-
-### Monitoring and Reliability
-
-`Prometheus` `Grafana` `Datadog` `Splunk` `OpenTelemetry`
-
-### Development
-
-`Python` `FastAPI` `Java` `Spring Boot` `React` `TypeScript` `PostgreSQL`
-
-### AI Engineering
-
-`AI Agents` `RAG` `MCP` `LangChain` `LangGraph` `OpenAI APIs` `Ollama`
-
----
-
-## 🌟 Featured Projects
-
-### ASG Talentra
-
-A multi-tenant recruitment and consultant-management platform supporting recruiters, sales teams, administrators, employees and candidates.
-
-**Technology:** React, FastAPI, PostgreSQL, JWT, Nginx and CI/CD
-
-[View Project](https://github.com/YOUR-USERNAME/YOUR-TALENTRA-REPOSITORY)
-
----
-
 ### Rainbow Fashions Inventory
 
 A retail inventory and point-of-sale platform with products, brands, categories, size variants, purchases, sales, barcode scanning, stock adjustments and backup protection.
@@ -64,17 +28,7 @@ A retail inventory and point-of-sale platform with products, brands, categories,
 **Technology:** React, FastAPI, PostgreSQL, Python and Docker
 
 [View Project](https://github.com/YOUR-USERNAME/rainbow-fashions-inventory)
-
----
-
-### DevOps and SRE AI Assistant
-
-An AI-powered operations assistant designed to monitor deployments, CI/CD pipelines, Kubernetes, applications, networking, storage, security and performance.
-
-**Technology:** Kubernetes, Python, MCP, AI APIs, Prometheus and Grafana
-
-[View Project](https://github.com/YOUR-USERNAME/YOUR-DEVOPS-AI-REPOSITORY)
-
+  
 ---
 
 ## 🔭 Current Focus
@@ -102,10 +56,10 @@ I am interested in collaborating on:
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [Your LinkedIn profile](YOUR-LINKEDIN-URL)
-* **Website:** [Your website](YOUR-WEBSITE-URL)
-* **Email:** YOUR-PROFESSIONAL-EMAIL
-* **GitHub:** [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+* **LinkedIn:** 
+* **Website:** 
+* **Email:** 
+* **GitHub:** 
 
 ---
 
